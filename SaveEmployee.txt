@@ -1,0 +1,2 @@
+1 Jan Kowalski it 4 5000
+2 Janusz Nowak manager 3 2400
